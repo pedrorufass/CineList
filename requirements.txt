@@ -1,0 +1,3 @@
+supabase
+upstash-redis
+python-dotenv
